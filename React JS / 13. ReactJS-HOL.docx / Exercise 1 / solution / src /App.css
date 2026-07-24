@@ -1,0 +1,11 @@
+.container{
+    display:flex;
+    justify-content:space-around;
+    padding:20px;
+}
+
+.section{
+    width:30%;
+    border-left:3px solid green;
+    padding-left:20px;
+}
